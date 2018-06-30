@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="name_hint">Full Name</string>
+    <string name="nexam_number_hint">     -  -  -  -  -  -</string>
+    <string name="examinee_name">Name:</string>
+    <string name="examinee_number">Exam no:</string>
+    <string name="question_1">Q1) Nigeria is in which continent?</string>
+    <string name="question_2">Q2) What country is technically in two continents?</string>
+    <string name="question_3">Q3) ............. is the capital of Ghana</string>
+    <string name="question_4">Q4) Which among the following is a commonwealth nation? </string>
+    <string name="question_5">Q5} which among these is a francophone country?</string>
+    <string name="question_6">Q6) a = 1;\n b = a; \nprint(a); \na = 2; \nb = a; \nprint(b); \nWhat is the value of b?</string>
+    <string name="question_7">Q7) What does UAE stand for?</string>
+    <string name="question_8">Q8) What does OPEC stand for?</string>
+    <string name="answer_1a">Africa</string>
+    <string name="answer_1b">Australia</string>
+    <string name="answer_1c">Antarctica</string>
+    <string name="answer_1d">Asia</string>
+    <string name="answer_2a">America</string>
+    <string name="answer_2b">Russia</string>
+    <string name="answer_2c">Japan</string>
+    <string name="answer_2d">Australia</string>
+    <string name="answer_3a">Guinea bissau</string>
+    <string name="answer_3b">Abuja</string>
+    <string name="answer_3c">Accra</string>
+    <string name="answer_3d">Cairo</string>
+    <string name="answer_4a">Mexico</string>
+    <string name="answer_4b">Nigeria</string>
+    <string name="answer_4c">Jamaica</string>
+    <string name="answer_4d">Ghana</string>
+    <string name="answer_5a">Liberia</string>
+    <string name="answer_5b">Ghana</string>
+    <string name="answer_5c">Zimbabwe</string>
+    <string name="answer_5d">Zambia</string>
+    <string name="answer_6a">1</string>
+    <string name="answer_6b">2</string>
+    <string name="answer_6c">3</string>
+    <string name="answer_6d">4</string>
+    <string name="score_button_text">Score</string>
+    <string name="submit_button_text">Submit</string>
+</resources>
